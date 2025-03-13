@@ -1,0 +1,41 @@
+"I want to build a professional portfolio website to showcase my skills, projects, work experience, and certifications. The website should provide complete and detailed information about me in a visually appealing and well-structured format. Below are the details to be included on the website:
+
+🔹 Personal Information:
+Name: Surendra Alla
+Email: allasurendra123@gmail.com
+LinkedIn: https://www.linkedin.com/in/alla-surendra-4205702ba/
+GitHub: https://github.com/surendra712
+Contact Number: +91 7287056345
+Instagram: https://www.instagram.com/silent_lover_sunny_143/
+💻 Skills:
+Python, Java, C, HTML, CSS, JavaScript, SQL, MySQL, PostgreSQL (PSQL), React, Machine Learning, Artificial Intelligence, GitHub, AWS, VS Code
+
+📂 Projects:
+(Placeholder – I will add projects later)
+
+💼 Work Experience:
+1️⃣ Accenture UK Developer and Technology Virtual Experience Programme on Forage – March 2025
+Completed the Developer and Technology Job Simulation, gaining an end-to-end understanding of the Software Development Lifecycle.
+Conducted in-depth research into emerging technology trends, particularly in DevOps, demonstrating a proactive approach to staying informed about the rapidly evolving tech landscape.
+Created and delivered a compelling PowerPoint presentation analyzing and comparing Waterfall and Agile methodologies.
+Designed a custom algorithm using pseudocode and effectively communicated its logic by creating a detailed flow diagram.
+Debugged a Python program, fixing syntax and logic errors in the code.
+(More work experience will be added later...)
+
+📜 Certifications:
+1️⃣ Accenture Developer and Technology – By Accenture
+2️⃣ Cybersecurity Virtual Internship – By Eduskills
+3️⃣ Python Web Development Pro – By Udemy
+4️⃣ Learning HTML and CSS – By Infosys Springboard
+5️⃣ Basics of Database Design and Development – By Udemy
+6️⃣ Database Management System – By Udemy
+
+The website should have:
+✅ A modern, clean, and responsive design.
+✅ An interactive homepage with a short introduction.
+✅ A dedicated section for skills, projects, and work experience.
+✅ A contact form so visitors can reach out to me.
+✅ A dark mode toggle for better user experience.
+✅ Social media icons linking to LinkedIn, GitHub, and Instagram.
+
+Build this website using HTML, CSS, JavaScript, and React (if possible). Ensure it is fully responsive and works well on desktop and mobile devices. Deploy it on Replit with a shareable link."
