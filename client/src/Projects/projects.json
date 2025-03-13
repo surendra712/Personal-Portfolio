@@ -1,0 +1,12 @@
+[
+  {
+    "title": "Portfolio Website",
+    "description": "A personal portfolio website built with React.",
+    "link": "https://yourportfolio.com"
+  },
+  {
+    "title": "E-commerce App",
+    "description": "An online shopping platform using React and Node.js.",
+    "link": "https://github.com/yourusername/ecommerce-app"
+  }
+]
