@@ -1,0 +1,19 @@
+body{
+    background-color: hsl(290, 92%, 72%);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.container{
+    margin-top: 200px;
+    margin-bottom: 200px;
+    margin-left: 500px;
+    margin-right: 500px;
+    border-style: double;
+    border-radius: 5px;
+    border-width: 3px;
+    padding: 20px;
+    background-color: white;
+    box-shadow: 20px ;
+}
+h1{
+    text-align: center;
+}

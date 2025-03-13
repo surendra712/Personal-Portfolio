@@ -1,12 +1,30 @@
 [
   {
-    "title": "Portfolio Website",
-    "description": "A personal portfolio website built with React.",
-    "link": "https://yourportfolio.com"
+    "title": "Counter Application",
+    "description": "A simple counter app built with React.",
+    "image": "/images/counter-app.png",
+    "link": "#",
+    "repo": "#"
   },
   {
-    "title": "E-commerce App",
-    "description": "An online shopping platform using React and Node.js.",
-    "link": "https://github.com/yourusername/ecommerce-app"
+    "title": "Internet Status Checker",
+    "description": "A web app to check internet connectivity status.",
+    "image": "/images/internet-status-checker.png",
+    "link": "#",
+    "repo": "#"
+  },
+  {
+    "title": "Palindrome Checker",
+    "description": "An application to check whether a given string is a palindrome.",
+    "image": "/images/palindrome-checker.png",
+    "link": "#",
+    "repo": "#"
+  },
+  {
+    "title": "RGB Colour Generator",
+    "description": "A tool to generate random RGB colors.",
+    "image": "/images/rgb-color-generator.png",
+    "link": "#",
+    "repo": "#"
   }
 ]

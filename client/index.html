@@ -1,11 +1,41 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1"
+    />
+    <title>My Portfolio | Surendra Alla</title>
+    <meta
+      name="description"
+      content="Portfolio showcasing my web development projects."
+    />
+    <link rel="stylesheet" href="/src/index.css" />
   </head>
   <body>
-    <div id="root"></div>
+    <header class="bg-primary text-primary-foreground p-4 text-center">
+      <h1 class="text-2xl font-bold">Surendra Alla's Portfolio</h1>
+    </header>
+
+    <main class="container mx-auto p-6">
+      <section
+        id="projects"
+        class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6"
+      >
+        <!-- Projects will be inserted dynamically using React -->
+        <noscript>
+          <p class="text-center text-muted">
+            JavaScript is required to view the projects.
+          </p>
+        </noscript>
+      </section>
+    </main>
+
+    <footer class="bg-secondary text-secondary-foreground text-center p-4 mt-6">
+      <p>&copy; 2025 Surendra Alla. All rights reserved.</p>
+    </footer>
+
     <script type="module" src="/src/main.tsx"></script>
   </body>
 </html>
